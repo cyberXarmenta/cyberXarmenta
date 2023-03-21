@@ -16,7 +16,7 @@
 
 - [UC Davis Cybersecurity Bootcamp Certificate](https://drive.google.com/file/d/15jMR4_vr9h-bGysvrBfv7AeRTfIxHDFl/view?usp=sharing)
   
-<h2>👨‍💻 Cybersecurity Boot Camp Work</h2>
+<h2>👨‍💻 Cybersecurity Boot Camp Coursework</h2>
 
 - <b>Governance, Risk, and Compliance</b>
   - [Assessing Security Culture](https://github.com/cyberXarmenta/Assessing-Security-Culture)
