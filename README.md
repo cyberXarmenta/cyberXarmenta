@@ -22,7 +22,4 @@
   - [Assessing Security Culture](https://github.com/cyberXarmenta/Assessing-Security-Culture)
 - <b>Bash (Unix shell)</b>
   - [Archiving and Logging Data](https://github.com/cyberXarmenta/Archiving-and-Logging-Data)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+
