@@ -7,8 +7,8 @@
 - <b>Splunk Enterprise Security</b>
   - [Building a Security Monitoring Enviroment](https://docs.google.com/document/d/1LP8hREaTiW2S7fn7eyIxQyjIjs9c5Vkdw7Ij_96koBU/edit?usp=sharing)
 - <b>Penetration Test Reports</b>
-  - [MegaCorpOne Corporation Pentest Report (Gray Hat engagement)](https://docs.google.com/document/d/18w7rZYfBy3-0fDDQ96Ft0u2hjVZRdPJAsaaXT-r_Csc/edit?usp=sharing)
-  - [Rekall Corporation Pentest Report (CTF style project)](https://docs.google.com/document/d/1DXXxuDhXK3gFpD3E7_4d7X8eDMa9_hI_bJWhC5oQ828/edit?usp=sharing)
+  - [The Network Rats, Penetration Testers (Gray Hat engagement)](https://docs.google.com/document/d/18w7rZYfBy3-0fDDQ96Ft0u2hjVZRdPJAsaaXT-r_Csc/edit?usp=sharing)
+  - [Rekall Corporation Penetration Report (CTF style project)](https://docs.google.com/document/d/1DXXxuDhXK3gFpD3E7_4d7X8eDMa9_hI_bJWhC5oQ828/edit?usp=sharing)
 - <b>Azure's Cloud Services and Docker</b>
   - [Securing Cloud Application](https://drive.google.com/drive/folders/1lJLVPzDFF4HvtniGIfnTjX5jTPr3Hgiy?usp=sharing)
   
