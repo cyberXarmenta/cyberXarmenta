@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcos! <br/><a href="https://www.linkedin.com/in/marco-armenta-cybersecurity?trk=people-guest_people_search-card">Junior Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Marcos! <br/><a href="https://www.linkedin.com/in/marco-armenta-cybersecurity?trk=people-guest_people_search-card">Junior IT Security Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
